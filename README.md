@@ -1,0 +1,1 @@
+O Projeto do app - Monitoria trata-se do trabalho Final da disciplina de Análise de programação realizado durante o ensino médio. O objetivo do projeto é auxiliar as monitorias que ocorrem na Escola durante os dias de sábados, possibilitando um melhor gerenciamento de presenças, materiais e coordenação das aulas auxiliares.
